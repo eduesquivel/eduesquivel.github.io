@@ -1,0 +1,1 @@
+@font-face{font-family:nec_apc3;src:url(/fonts/Web437_NEC_APC3_8x16.woff)format("woff");font-weight:400;font-style:normal}body{font-family:nec_apc3;background-color:#000}main{background-color:#000;margin:auto;width:60%;text-align:center;color:gray;border:3px solid gray}
