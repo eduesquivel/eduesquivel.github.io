@@ -1,6 +1,0 @@
-baseURL = 'https://eduesquivel.github.io/'
-languageCode = 'en-us'
-title = 'edu website'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
